@@ -1,1 +1,3 @@
-img/*.*
+img
+.DS_Store
+Thumbs.db
