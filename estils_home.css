@@ -1,0 +1,16 @@
+.jumbotron{
+    margin-bottom: 1rem;
+}
+
+.card{
+    display: inline-grid;
+    text-align: -webkit-center;
+    width: 300px;
+    margin: 0;
+    margin-right: .6rem;
+}
+
+.card-img-top{
+    width: 200px;
+    padding: 10px; 
+}
