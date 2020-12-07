@@ -1,10 +1,6 @@
-.jumbotron{
-    margin-bottom: 1rem;
-}
-
-.page-header{
-    margin-bottom: 2rem;   
-}
+/* Estils per una recepta */
+@import 'estils_jumbotron.css';
+@import 'estils_header.css';
 
 .list-group{
     margin-bottom: 1rem;   

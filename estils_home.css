@@ -1,6 +1,6 @@
-.jumbotron{
-    margin-bottom: 1rem;
-}
+/* Estils per la plana principal */
+@import 'estils_jumbotron.css';
+@import 'estils_header.css';
 
 .card{
     display: inline-grid;

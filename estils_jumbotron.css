@@ -1,0 +1,7 @@
+.jumbotron{
+    color: rgb(244, 193, 106);
+    margin-bottom: 1rem;
+    background-image: url("banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
