@@ -1,6 +1,8 @@
+@charset "utf-8";
+
 /* Estils per una recepta */
-@import 'estils_jumbotron.css';
-@import 'estils_header.css';
+@import url('estils_jumbotron.css');
+@import url('estils_header.css');
 
 .list-group{
     margin-bottom: 1rem;   
